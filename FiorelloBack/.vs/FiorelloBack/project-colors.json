@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a6262355-c04e-48a0-9b70-2de9f2adb351": {
+      "ProjectGuid": "a6262355-c04e-48a0-9b70-2de9f2adb351",
+      "DisplayName": "FiorelloBack",
+      "ColorIndex": 0
+    },
+    "5a039868-a740-4c21-9325-8b0fc696e34f": {
+      "ProjectGuid": "5a039868-a740-4c21-9325-8b0fc696e34f",
+      "DisplayName": "FiorelloBack",
+      "ColorIndex": 1
+    },
+    "3d35de91-104a-404d-8da8-78e5db165957": {
+      "ProjectGuid": "3d35de91-104a-404d-8da8-78e5db165957",
+      "DisplayName": "FiorelloBack",
+      "ColorIndex": 2
+    },
+    "9d247c95-5a63-40e0-898e-35abc53eb1ae": {
+      "ProjectGuid": "9d247c95-5a63-40e0-898e-35abc53eb1ae",
+      "DisplayName": "FiorelloBack",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
